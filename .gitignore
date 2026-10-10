@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+dist/
+artifacts/
+.vs/
+.codex/
+.agents/
+AGENTS.md
+PROJECT_CONTEXT.md
+data/
+settings.json
+config.json
+*.user
+*.suo

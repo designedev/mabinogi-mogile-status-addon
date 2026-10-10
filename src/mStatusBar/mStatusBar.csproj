@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.26100.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.26100.0</TargetPlatformMinVersion>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>0.6.1</Version>
+    <ApplicationIcon>Assets\mStatusBar.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\mStatusBar.ico" />
+    <ProjectReference Include="../mStatusBar.Core/mStatusBar.Core.csproj" />
+    <PackageReference Include="Deskband11Lib.Wpf" Version="1.4.2" />
+  </ItemGroup>
+</Project>
+
+
