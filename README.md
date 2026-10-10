@@ -2,6 +2,9 @@
 
 마비노기 모바일의 상태를 Windows 작업 표시줄에 표시하는 독립 애드온입니다. 웹 서버나 브라우저 없이 게임에 포함된 CLI와 직접 연결합니다.
 
+<img width="498" height="48" alt="image" src="https://github.com/user-attachments/assets/f2dfa61e-d395-49b1-adb9-d59046addcd1" />
+
+
 ## 지원 스킬셋
 
 | 기능 | 사용 방법 | 사용하는 CLI 명령 |
